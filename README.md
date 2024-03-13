@@ -1,6 +1,6 @@
 👋 Bonjour, je suis Lioxyze, un développeur web passionné par la création de solutions numériques innovantes.
 
-💻 Compétences : HTML, CSS, JavaScript, React, Node.js, Git
+💻 Compétences : HTML, CSS, JavaScript, Git
 
 🚀 Expérience professionnelle : Développeur en formation !!
 
