@@ -1,39 +1,13 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+👋 Bonjour, je suis [Votre Nom], un développeur web passionné par la création de solutions numériques innovantes.
 
-###
+💻 Compétences : HTML, CSS, JavaScript, React, Node.js, Git
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+🚀 Expérience professionnelle : Développeur web chez [Nom de l'entreprise] où j'ai contribué à la création de plusieurs applications web centrées sur l'expérience utilisateur.
 
-###
+🌱 Projets open source : J'ai contribué à [Nom du projet] et [Nom du projet], aidant à résoudre des problèmes et à améliorer les fonctionnalités.
 
-<h2 align="left">About me</h2>
+🎓 Formation : Diplômé en informatique de l'Université [Nom de l'université]. Certification en développement web complet.
 
-###
+🛠️ Langues et outils : [Badge HTML] [Badge CSS] [Badge JavaScript] [Badge React] [Badge Git]
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-</div>
-
-###
+📧 Vous pouvez me contacter par email à [votre@email.com] ou sur LinkedIn à [votre profil LinkedIn].
